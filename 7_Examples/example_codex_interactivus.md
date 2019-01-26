@@ -1,35 +1,35 @@
-#Codex Interactivus - Downloadable Example
+# Codex Interactivus - Downloadable Example
 This application displays models of Leonardo da Vinci’s inventions on your device.
 
-##Download the Application
+## Download the Application
 
 -   [Android][android]
 -   [iOS][ios]
 -   [Windows][windows]
 -   [OS X][osx]
 
-##How do I use it?
+## How do I use it?
 
 1.   Before the app can be used, you will need a physical print of the page images. You can either [download a PDF file of the pages here][targets] or use the PDF supplied with the application disk image or from the in-app menu (where applicable).
 2.  Once the page images are printed, point the camera at the pages.
 
-##Platform Requirements
+## Platform Requirements
 
-###Android
+### Android
 
 -   Android v2.3 or later.
 -   Your Android device must have a camera.
 -   If available, a data connection (e.g. wifi or cellular data) will be used to download camera calibration data for your device.
 
-###iOS
+###  iOS
 
 -   iOS v5.1.1 or later.
 
-###Windows
+### Windows
 
 -   Windows XP SP 3 or later.
 
-###OS X
+### OS X
 
 -   OS X 10.6 or later.
 
